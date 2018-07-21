@@ -62,4 +62,6 @@ dict [‘name’] = name
 <br>dict [‘introduction’] = introduction
 <br>dict [‘relationship’] = relationship
 <br>dict [‘experience’] = experience
-
+![](https://github.com/G1704/Scrapy-for-mtime/blob/master/terminal.png "Career")
+<br>
+![](https://github.com/G1704/Scrapy-for-mtime/blob/master/result.png "Career")

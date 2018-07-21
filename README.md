@@ -7,11 +7,11 @@
 * Connectors.py <br>
 connect mongodb database and retrieve URLs 
 * mtimePosition.oy
-  <br>  retrieve actors\` documentation and then yield one item to seetings for storage
+	<br>  Retrieve actors\` documentation and then yield one item to seetings for storage
 * items.py
-	<br>  define item`s content
+	<br>  Define item`s content
 * settings.py
-	<br>  receive items and then store it into database
+	<br>  Receive items and then store it into database
 * Store_urls.txt
 	<br>  A storage for valid URLs
 * Wrong_urls.txt

@@ -42,10 +42,19 @@ connect mongodb database and retrieve URLs
 * Get his page link from the database first, and then enter his personal documentation items.
 
 ### Each item
-<br>basic information: brithday, height, constellation, Blood type. etc
-<br>personal introduction: a introductory passage for the actor
-<br>social relationship: most director, most actor, most actress, Top10 paitners
-<br>personal experience: year + history content
+<br>basic information: brithday, height, constellation, Blood type. etc<br>
+![](https://github.com/G1704/Scrapy-for-mtime/blob/master/%E5%9F%BA%E6%9C%AC%E8%B5%84%E6%96%99.png "Profile")
+<br>
+<br>personal introduction: a introductory passage for the actor<br>
+![](https://github.com/G1704/Scrapy-for-mtime/blob/master/%E4%BA%BA%E7%89%A9%E5%B0%8F%E4%BC%A0.png "Biography")
+<br>
+<br>social relationship: most director, most actor, most actress, Top10 paitners<br>
+![](https://github.com/G1704/Scrapy-for-mtime/blob/master/%E4%BA%BA%E7%89%A9%E5%85%B3%E7%B3%BB.png "Relationship")
+<br>
+<br>personal experience: year + history content<br>
+![](https://github.com/G1704/Scrapy-for-mtime/blob/master/%E6%BC%94%E8%89%BA%E7%BB%8F%E5%8E%86.png "Career")
+<br>
+
 
 ### Save as json file
 dict [‘name’] = name
